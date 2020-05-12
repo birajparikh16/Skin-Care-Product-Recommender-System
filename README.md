@@ -1,2 +1,9 @@
-# Skin-Care-Product-Recommender-System
-Recommender System for the Skin Care Products
+# Skin Care Product Recommender System
+
+### Problem Description
+Building recommendation system for skin care products based on the user's skin type on an e-commerce website.
+
+Implemented :
+
+* Simple Popularity Based Recommender System.
+* Collaborative Filtering
